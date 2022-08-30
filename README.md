@@ -6,6 +6,26 @@ Hey there 👋,
 
 I'm Glenn!</span> I make [websites](https://glennhs.co.uk) and [applications](https://github.com/GlennHS/AEtherSlay), mostly using **JavaScript, NodeJS, C# and Python!** I'm a curious programmer with a love of learning and a passion for improving. I'm always seeking out new challenges and love the sense of accomplishment from figuring out the solution to something tricky 💪
 
+<!-- TODO: Add Spotify "Now Playing:" seen here: https://www.youtube.com/watch?v=n6d4KHSKqGk&t=593s  -->
+
+----
+
+<!-- <p align="center">
+  <a href="https://github.com/glennhs"><img src="https://github-readme-stats-xi-beryl.vercel.app/api?username=glennhs&theme=synthwave"/></a>
+</p> -->
+
+<!-- TODO: Do something fancier with these cards -->
+
+<p align="center">
+<a href="https://github.com/glennhs/aetherslay"><img src="https://github-readme-stats-xi-beryl.vercel.app/api/pin?repo=aetherslay&username=glennhs&theme=synthwave" /></a>
+<a href="https://github.com/glennhs/Vue-Center"><img src="https://github-readme-stats-xi-beryl.vercel.app/api/pin?repo=Vue-Center&username=glennhs&theme=synthwave" /></a>
+</p>
+
+<p align="center">
+<a href="https://github.com/glennhs/Scrum-Helper"><img src="https://github-readme-stats-xi-beryl.vercel.app/api/pin?repo=Scrum-Helper&username=glennhs&theme=synthwave" /></a>
+<a href="https://github.com/glennhs/Programming-Challenges"><img src="https://github-readme-stats-xi-beryl.vercel.app/api/pin?repo=Programming-Challenges&username=glennhs&theme=synthwave" /></a>
+</p>
+
 ----
 
 <img align="left" width="200" height="200" alt="A picture showing two logos, one of the Marketo Certified Expert badge and the other of the Pardot Specialist badge" src="https://glennhs.co.uk/assets/images/MCEandPS.png" style="width: 200px; margin-right: 20px" />
@@ -31,22 +51,12 @@ At the moment it's very basic and not being hosted anywhere but the repo is publ
 &nbsp;
 
 ----
-
-Personal Site: https://glennhs.co.uk
-
-LinkedIn: https://www.linkedin.com/in/glennhs
-
-<!--
-**GlennHS/glennhs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- You can't stop me from styling your READMEs GitHub, I've made emails for Outlook 2007 and 2016. I've seen hell -->
+<div align="center">
+<table>
+  <tr>
+    <td width="500px" align="center">💻 Personal Site: <a href="https://glennhs.co.uk">https://glennhs.co.uk</a></td>
+    <td width="500px" align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/glennhs">https://www.linkedin.com/in/glennhs</a></td>
+  </tr>
+</table>
+</div>
