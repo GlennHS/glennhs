@@ -1,4 +1,4 @@
-![My profile banner. It shows a picture of me standing next to logos depicting languages and frameworks I'm competent in](https://glennhs.co.uk/assets/images/GithubBanner.png "Hey look! It's me!")
+[![My profile banner. It shows a picture of me standing next to logos depicting languages and frameworks I'm competent in](https://glennhs.co.uk/assets/images/GithubBanner.png "Hey look! It's me!")](https://glennhs.co.uk)
 
 ### `Hello World!`, and welcome to the coolest place on the internet 😎
 
