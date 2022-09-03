@@ -13,7 +13,7 @@ I'm Glenn!</span> I make [websites](https://glennhs.co.uk) and [applications](ht
 ----
 
 <!-- <p align="center">
-  <a href="https://github.com/glennhs"><img src="https://github-readme-stats-xi-beryl.vercel.app/api?username=glennhs&theme=synthwave"/></a>
+  <a target="_blank" href="https://github.com/glennhs"><img src="https://github-readme-stats-xi-beryl.vercel.app/api?username=glennhs&theme=synthwave"/></a>
 </p> -->
 
 <!-- TODO: Do something fancier with these cards -->
