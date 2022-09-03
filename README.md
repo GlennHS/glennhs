@@ -7,13 +7,13 @@ Hey there 👋,
 I'm Glenn!</span> I make [websites](https://glennhs.co.uk) and [applications](https://github.com/GlennHS/AEtherSlay), mostly using **JavaScript, NodeJS, C# and Python!** I'm a curious programmer with a love of learning and a passion for improving. I'm always seeking out new challenges and love the sense of accomplishment from figuring out the solution to something tricky 💪
 
 <p align="center">
-<a href="https://open.spotify.com/user/1183904881"><img src="https://github-readme-spotify-widget.vercel.app//api/spotify" /></a>
+<a target="_blank" href="https://open.spotify.com/user/1183904881"><img src="https://github-readme-spotify-widget.vercel.app//api/spotify" /></a>
 </p>
 
 ----
 
 <!-- <p align="center">
-  <a target="_blank" href="https://github.com/glennhs"><img src="https://github-readme-stats-xi-beryl.vercel.app/api?username=glennhs&theme=synthwave"/></a>
+  <a href="https://github.com/glennhs"><img src="https://github-readme-stats-xi-beryl.vercel.app/api?username=glennhs&theme=synthwave"/></a>
 </p> -->
 
 <!-- TODO: Do something fancier with these cards -->
