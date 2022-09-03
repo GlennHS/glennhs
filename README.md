@@ -6,7 +6,9 @@ Hey there 👋,
 
 I'm Glenn!</span> I make [websites](https://glennhs.co.uk) and [applications](https://github.com/GlennHS/AEtherSlay), mostly using **JavaScript, NodeJS, C# and Python!** I'm a curious programmer with a love of learning and a passion for improving. I'm always seeking out new challenges and love the sense of accomplishment from figuring out the solution to something tricky 💪
 
-<!-- TODO: Add Spotify "Now Playing:" seen here: https://www.youtube.com/watch?v=n6d4KHSKqGk&t=593s  -->
+<p align="center">
+<a href="https://open.spotify.com/user/1183904881"><img src="https://github-readme-spotify-widget.vercel.app//api/spotify" /></a>
+</p>
 
 ----
 
