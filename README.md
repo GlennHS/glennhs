@@ -35,7 +35,7 @@ I'm Glenn!</span> I make [websites](https://glennhs.co.uk) and [applications](ht
 
 I'm currently certified in both **Marketo and Pardot**, having achieved my certifications in both of them within 8 months of starting my role at [Clevertouch Marketing](https://clever-touch.com)! I specialise in web development and am continuously looking to improve my skills!
 
-I have started learning **Vue and Vite** and am thoroughly enjoying them. I have also dabbled in **Laravel** and aim to get back into that now that I'm far more competent with Vue. I have also been learning some **Unity C#** as I hope to properly enter the [Ludum Dare](https://ldjam.com) contest this coming September/October!
+I have started learning **Vue, Nuxt and Vite** and am thoroughly enjoying them. I have also dabbled in **Laravel** and aim to get back into that now that I'm far more competent with Vue. I have also been learning some **Unity C#** and hope to properly enter the [Ludum Dare](https://ldjam.com) contest one day!
 
 &nbsp;
 
