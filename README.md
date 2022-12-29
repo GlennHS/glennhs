@@ -10,6 +10,7 @@ I'm Glenn!</span> I make [websites](https://glennhs.co.uk) and [applications](ht
 <p align="center">
 <a target="_blank" href="https://open.spotify.com/user/1183904881"><img src="https://github-readme-spotify-widget.vercel.app//api/spotify" /></a>
 </p>
+<p align="center"><sub align="center">I can only apologise if the title to the above is... <i>interesting</i>. My music taste is varied to say the least!</sub></p>
 
 ----
 
