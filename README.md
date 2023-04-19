@@ -4,7 +4,7 @@
 
 Hey there 👋,
 
-I'm Glenn!</span> I make [websites](https://glennhs.co.uk) and [applications](https://github.com/GlennHS/AEtherSlay), mostly using **JavaScript, NodeJS, C# and Python!** I'm a curious programmer with a love of learning and a passion for improving. I'm always seeking out new challenges and love the sense of accomplishment from figuring out the solution to something tricky 💪
+I'm Glenn!</span> I make [websites](https://glennhs.co.uk) and [applications](https://github.com/GlennHS/AEtherSlay), mostly using **Nuxt, Vue, NodeJS, Laravel, C# and Python!** I'm a curious programmer with a love of learning and a passion for improving. I'm always seeking out new challenges and love the sense of accomplishment from figuring out the solution to something tricky 💪
 
 <h3 align="center"><b>Now Listening:</b></h3>
 <p align="center">
