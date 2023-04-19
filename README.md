@@ -30,12 +30,12 @@ I'm Glenn!</span> I make [websites](https://glennhs.co.uk) and [applications](ht
 <a href="https://github.com/glennhs/Programming-Challenges"><img src="https://github-readme-stats-xi-beryl.vercel.app/api/pin?repo=Programming-Challenges&username=glennhs&theme=synthwave" /></a>
 </p>
 
-<table align="center">
-  <tr>
-    <td style="width:410px">
+<table align="center" style="height:max-content;overflow-y:hidden;border-collapse:collapse;border:none" border="0">
+  <tr style="border-collapse:collapse;border:none" border="0">
+    <td style="width:410px;border-collapse:collapse;border:none" border="0">
       <img align="left" width="400" height="290" alt="A picture showing three logos, a Marketo Certified Expert badge, a Pardot Specialist badge and a Marketing Cloud Email Specialist badge" src="./images/certs.png" style="width: 400px; margin-right: 20px;margin-bottom:10px" />
     </td>
-    <td>
+    <td style="border-collapse:collapse;border:none" border="0">
       <p>
         I'm currently certified in three marketing automation platforms: **Marketo, Pardot (now Marketing Cloud Account Engagement) and Salesforce Marketing Cloud**, having achieved my certifications in Pardot and Marketo within 8 months of starting my role at [Clevertouch Marketing](https://clever-touch.com)! I specialise in web development and am continuously looking to improve my skills!
       </p>
@@ -44,7 +44,8 @@ I'm Glenn!</span> I make [websites](https://glennhs.co.uk) and [applications](ht
       </p>
     </td>
   </tr>
-    <td>
+  <tr style="border-collapse:collapse;border:none" border="0">
+    <td style="border-collapse:collapse;border:none" border="0">
       <p>
         I've been working on my personal site, [GlennHS](https://glennhs.co.uk) for about a month now and its been a very fulfilling and enjoyable experience. I've been able to use new technologies, decide my own tech stack, learn about which technology works best for what, further my Nuxt and Vue learning as well as really get stuck in with TailwindCSS and Nuxt Content.
       </p>
@@ -52,10 +53,9 @@ I'm Glenn!</span> I make [websites](https://glennhs.co.uk) and [applications](ht
         I'm very proud of what I've accomplished so far and I really look forward to finding more fun side projects that I can add to my site as well as create more blog posts (read as: shout into this void we call the internet) :)
       </p>
     </td>
-    <td style="width:510px">
+    <td style="width:510px;border-collapse:collapse;border:none" border="0">
       <img align="right" width="500" alt="A picture showing the logo of my app, Center" src="./images/ghs-site.png" style="width: 500px;" />
     </td>
-  <tr>
   </tr>
 </table>
 
