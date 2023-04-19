@@ -1,4 +1,4 @@
-[![My profile banner. It shows a picture of me standing next to logos depicting languages and frameworks I'm competent in](https://glennhs.co.uk/assets/images/GithubBanner.png "Hey look! It's me!")](https://glennhs.co.uk)
+[![My profile banner. It shows a picture of me standing next to logos depicting languages and frameworks I'm competent in](./images/GithubBanner.png "Hey look! It's me!")](https://glennhs.co.uk)
 
 ### `Hello World!`, and welcome to the coolest place on the internet 😎
 
@@ -32,17 +32,17 @@ I'm Glenn!</span> I make [websites](https://glennhs.co.uk) and [applications](ht
 
 ----
 
-<img align="left" width="200" height="200" alt="A picture showing two logos, one of the Marketo Certified Expert badge and the other of the Pardot Specialist badge" src="https://glennhs.co.uk/assets/images/MCEandPS.png" style="width: 200px; margin-right: 20px" />
+<img align="left" width="200" height="200" alt="A picture showing two logos, one of the Marketo Certified Expert badge and the other of the Pardot Specialist badge" src="./images/certs.png" style="width: 200px; margin-right: 20px" />
 
-I'm currently certified in both **Marketo and Pardot**, having achieved my certifications in both of them within 8 months of starting my role at [Clevertouch Marketing](https://clever-touch.com)! I specialise in web development and am continuously looking to improve my skills!
+I'm currently certified in three marketing automation platforms: **Marketo, Pardot (now Marketing Cloud Account Engagement) and Salesforce Marketing Cloud**, having achieved my certifications in Pardot and Marketo within 8 months of starting my role at [Clevertouch Marketing](https://clever-touch.com)! I specialise in web development and am continuously looking to improve my skills!
 
-I have started learning **Vue, Nuxt and Vite** and am thoroughly enjoying them. I have also dabbled in **Laravel** and aim to get back into that now that I'm far more competent with Vue. I have also been learning some **Unity C#** and hope to properly enter the [Ludum Dare](https://ldjam.com) contest one day!
+I have been learning **Vue, Nuxt and Laravel** for over a year now and absolutely love them, they are definitely the biggest components of my personal stack! I have also been learning some **Unity C#** and hope to properly enter the [Ludum Dare](https://ldjam.com) contest properly one day!
 
 &nbsp;
 
-----
+<!-- ---- -->
 
-<img align="right" width="200" alt="A picture showing the logo of my app, Center" src="https://glennhs.co.uk/assets/images/center-logo-transparent-tagline.png" style="width: 200px;" />
+<!-- <img align="right" width="200" alt="A picture showing the logo of my app, Center" src="https://glennhs.co.uk/assets/images/center-logo-transparent-tagline.png" style="width: 200px;" />
 
 &nbsp;
 
@@ -52,7 +52,7 @@ At the moment it's very basic and not being hosted anywhere but the repo is publ
 
 &nbsp;
 
-&nbsp;
+&nbsp; -->
 
 ----
 <!-- You can't stop me from styling your READMEs GitHub, I've made emails for Outlook 2007 and 2016. I've seen hell -->
