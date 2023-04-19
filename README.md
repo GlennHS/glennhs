@@ -30,29 +30,34 @@ I'm Glenn!</span> I make [websites](https://glennhs.co.uk) and [applications](ht
 <a href="https://github.com/glennhs/Programming-Challenges"><img src="https://github-readme-stats-xi-beryl.vercel.app/api/pin?repo=Programming-Challenges&username=glennhs&theme=synthwave" /></a>
 </p>
 
-----
-
-<img align="left" width="200" height="200" alt="A picture showing two logos, one of the Marketo Certified Expert badge and the other of the Pardot Specialist badge" src="./images/certs.png" style="width: 200px; margin-right: 20px" />
-
-I'm currently certified in three marketing automation platforms: **Marketo, Pardot (now Marketing Cloud Account Engagement) and Salesforce Marketing Cloud**, having achieved my certifications in Pardot and Marketo within 8 months of starting my role at [Clevertouch Marketing](https://clever-touch.com)! I specialise in web development and am continuously looking to improve my skills!
-
-I have been learning **Vue, Nuxt and Laravel** for over a year now and absolutely love them, they are definitely the biggest components of my personal stack! I have also been learning some **Unity C#** and hope to properly enter the [Ludum Dare](https://ldjam.com) contest properly one day!
-
-&nbsp;
-
-<!-- ---- -->
-
-<!-- <img align="right" width="200" alt="A picture showing the logo of my app, Center" src="https://glennhs.co.uk/assets/images/center-logo-transparent-tagline.png" style="width: 200px;" />
-
-&nbsp;
-
-I'm currently working on a fun little app called [Center](https://github.com/GlennHS/Vue-Center). It's a small to do list app in **Vue** that I'm making in order to supplement my learning. It's been a fantastic way of learning Vue and **Vite**, plus its really helped reignite my passion for development!
-
-At the moment it's very basic and not being hosted anywhere but the repo is public and it's really simple to clone down and take a look! I've mostly been pushing myself to see what cool CSS tricks I can do and see how pretty I can make the components, especially the checkbox and the priority pillbox! I'm looking forward to seeing what else I can do, and all the learning that's to come 😄
-
-&nbsp;
-
-&nbsp; -->
+<table align="center">
+  <tr>
+    <td style="width:410px">
+      <img align="left" width="400" height="290" alt="A picture showing three logos, a Marketo Certified Expert badge, a Pardot Specialist badge and a Marketing Cloud Email Specialist badge" src="./images/certs.png" style="width: 400px; margin-right: 20px;margin-bottom:10px" />
+    </td>
+    <td>
+      <p>
+        I'm currently certified in three marketing automation platforms: **Marketo, Pardot (now Marketing Cloud Account Engagement) and Salesforce Marketing Cloud**, having achieved my certifications in Pardot and Marketo within 8 months of starting my role at [Clevertouch Marketing](https://clever-touch.com)! I specialise in web development and am continuously looking to improve my skills!
+      </p>
+      <p>
+        I have been learning **Vue, Nuxt and Laravel** for over a year now and absolutely love them, they are definitely the biggest components of my personal stack! I have also been learning some **Unity C#** and hope to properly enter the [Ludum Dare](https://ldjam.com) contest properly one day!
+      </p>
+    </td>
+  </tr>
+    <td>
+      <p>
+        I've been working on my personal site, [GlennHS](https://glennhs.co.uk) for about a month now and its been a very fulfilling and enjoyable experience. I've been able to use new technologies, decide my own tech stack, learn about which technology works best for what, further my Nuxt and Vue learning as well as really get stuck in with TailwindCSS and Nuxt Content.
+      </p>
+      <p>
+        I'm very proud of what I've accomplished so far and I really look forward to finding more fun side projects that I can add to my site as well as create more blog posts (read as: shout into this void we call the internet) :)
+      </p>
+    </td>
+    <td style="width:510px">
+      <img align="right" width="500" alt="A picture showing the logo of my app, Center" src="./images/ghs-site.png" style="width: 500px;" />
+    </td>
+  <tr>
+  </tr>
+</table>
 
 ----
 <!-- You can't stop me from styling your READMEs GitHub, I've made emails for Outlook 2007 and 2016. I've seen hell -->
