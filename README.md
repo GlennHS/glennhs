@@ -30,12 +30,12 @@ I'm Glenn!</span> I make [websites](https://glennhs.co.uk) and [applications](ht
 <a href="https://github.com/glennhs/Programming-Challenges"><img src="https://github-readme-stats-xi-beryl.vercel.app/api/pin?repo=Programming-Challenges&username=glennhs&theme=synthwave" /></a>
 </p>
 
-<table align="center" style="height:max-content;overflow-y:hidden;border-collapse:collapse;border:none!important;background:none!important" border="0">
-  <tr style="border-collapse:collapse;border:none!important;background:none!important" border="0">
-    <td style="width:410px;border-collapse:collapse;border:none!important;background:none!important" border="0">
+<table align="center" style="height:max-content;overflow-y:hidden;border-collapse:collapse;border:none!important;background:none!important" border="0" background="https://commons.wikimedia.org/wiki/Category:Fully_transparent_images#/media/File:16x16.png">
+  <tr border="0" background="https://commons.wikimedia.org/wiki/Category:Fully_transparent_images#/media/File:16x16.png">
+    <td width="410" border="0" background="https://commons.wikimedia.org/wiki/Category:Fully_transparent_images#/media/File:16x16.png">
       <img align="left" width="400" height="290" alt="A picture showing three logos, a Marketo Certified Expert badge, a Pardot Specialist badge and a Marketing Cloud Email Specialist badge" src="./images/certs.png" style="width: 400px; margin-right: 20px;margin-bottom:10px" />
     </td>
-    <td style="border-collapse:collapse;border:none!important;background:none!important" border="0">
+    <td border="0" background="https://commons.wikimedia.org/wiki/Category:Fully_transparent_images#/media/File:16x16.png">
       <p>
         I'm currently certified in three marketing automation platforms: <b>Marketo, Pardot (now Marketing Cloud Account Engagement) and Salesforce Marketing Cloud</b>, having achieved my certifications in Pardot and Marketo within 8 months of starting my role at <a href="https://clever-touch.com">Clevertouch Marketing</a>! I specialise in web development and am continuously looking to improve my skills!
       </p>
@@ -44,8 +44,8 @@ I'm Glenn!</span> I make [websites](https://glennhs.co.uk) and [applications](ht
       </p>
     </td>
   </tr>
-  <tr style="border-collapse:collapse;border:none!important;background:none!important" border="0">
-    <td style="border-collapse:collapse;border:none!important;background:none!important" border="0">
+  <tr border="0" background="https://commons.wikimedia.org/wiki/Category:Fully_transparent_images#/media/File:16x16.png">
+    <td border="0" background="https://commons.wikimedia.org/wiki/Category:Fully_transparent_images#/media/File:16x16.png">
       <p>
         I've been working on my personal site, <a href="https://glennhs.co.uk">GlennHS</a> for about a month now and its been a very fulfilling and enjoyable experience. I've been able to use new technologies, decide my own tech stack, learn about which technology works best for what, further my Nuxt and Vue learning as well as really get stuck in with TailwindCSS and Nuxt Content.
       </p>
@@ -53,7 +53,7 @@ I'm Glenn!</span> I make [websites](https://glennhs.co.uk) and [applications](ht
         I'm very proud of what I've accomplished so far and I really look forward to finding more fun side projects that I can add to my site as well as create more blog posts (read as: shout into this void we call the internet) :)
       </p>
     </td>
-    <td style="width:510px;border-collapse:collapse;border:none!important;background:none!important" border="0">
+    <td width="510px" border="0" background="https://commons.wikimedia.org/wiki/Category:Fully_transparent_images#/media/File:16x16.png">
       <img align="right" width="500" alt="A picture showing the logo of my app, Center" src="./images/ghs-site.png" style="width: 500px;" />
     </td>
   </tr>
