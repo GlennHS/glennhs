@@ -4,7 +4,7 @@
 
 Hey there 👋,
 
-I'm Glenn!</span> I make [websites](https://glennhs.co.uk) and [applications](https://github.com/GlennHS/AEtherSlay), mostly using **Nuxt, Vue, NodeJS, Laravel, C# and Python!** I'm a curious programmer with a love of learning and a passion for improving. I'm always seeking out new challenges and love the sense of accomplishment from figuring out the solution to something tricky 💪
+I'm Glenn!</span> I make [websites](https://glennhs.co.uk) and [applications](https://github.com/GlennHS/AEtherSlay), mostly using **Nuxt, Vue, NodeJS, Laravel, PHP, C# and Python!** I'm a curious programmer with a love of learning and a passion for improving. I'm always seeking out new challenges and love the sense of accomplishment from figuring out the solution to something tricky 💪
 
 <h3 align="center"><b>Now Listening:</b></h3>
 <p align="center">
@@ -22,7 +22,7 @@ I'm Glenn!</span> I make [websites](https://glennhs.co.uk) and [applications](ht
 
 <p align="center">
 <a href="https://github.com/glennhs/aetherslay"><img src="https://github-readme-stats-xi-beryl.vercel.app/api/pin?repo=aetherslay&username=glennhs&theme=synthwave" /></a>
-<a href="https://github.com/glennhs/Vue-Center"><img src="https://github-readme-stats-xi-beryl.vercel.app/api/pin?repo=Vue-Center&username=glennhs&theme=synthwave" /></a>
+<a href="https://github.com/glennhs/GlennHS-Site"><img src="https://github-readme-stats-xi-beryl.vercel.app/api/pin?repo=GlennHS-Site&username=glennhs&theme=synthwave" /></a>
 </p>
 
 <p align="center">
