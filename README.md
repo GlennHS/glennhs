@@ -20,7 +20,7 @@ I'm Glenn!</span> I make [websites](https://glennhs.co.uk) and [applications](ht
 
 <!-- TODO: Do something fancier with these cards -->
 
-<!--<p align="center">
+<p align="center">
 <a href="https://github.com/glennhs/aetherslay"><img src="https://github-readme-stats-xi-beryl.vercel.app/api/pin?repo=aetherslay&username=glennhs&theme=synthwave" /></a>
 <a href="https://github.com/glennhs/GlennHS-Site"><img src="https://github-readme-stats-xi-beryl.vercel.app/api/pin?repo=GlennHS-Site&username=glennhs&theme=synthwave" /></a>
 </p>
@@ -28,7 +28,7 @@ I'm Glenn!</span> I make [websites](https://glennhs.co.uk) and [applications](ht
 <p align="center">
 <a href="https://github.com/glennhs/Scrum-Helper"><img src="https://github-readme-stats-xi-beryl.vercel.app/api/pin?repo=Scrum-Helper&username=glennhs&theme=synthwave" /></a>
 <a href="https://github.com/glennhs/Programming-Challenges"><img src="https://github-readme-stats-xi-beryl.vercel.app/api/pin?repo=Programming-Challenges&username=glennhs&theme=synthwave" /></a>
-</p>-->
+</p>
 
 <table align="center" style="height:max-content;overflow-y:hidden;border-collapse:collapse;border:none!important;background:none!important" border="0" background="https://commons.wikimedia.org/wiki/Category:Fully_transparent_images#/media/File:16x16.png">
   <tr border="0" background="https://commons.wikimedia.org/wiki/Category:Fully_transparent_images#/media/File:16x16.png">
