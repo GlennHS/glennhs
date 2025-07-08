@@ -45,7 +45,7 @@ I'm Glenn! I'm a **South UK-based front-end web developer** who makes **[website
 
 **Styling:** TailwindCSS, SCSS
 
-**Tooling:** Vite, ESLint, GitHub Actions, Playwright
+**Tooling:** ESLint, React Testing Library
 
 **Other:** Raspberry Pi, Python, C#, Godot, Web Performance/Lighthouse, Accessibility (WCAG)
 
