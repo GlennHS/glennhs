@@ -22,8 +22,8 @@ I'm Glenn! I'm a **South UK-based front-end web developer** who makes **[website
 
 <!-- TODO: Do something fancier with these cards -->
 ### 👀 At A Glance
-![Top Languages](https://github-readme-stats-xi-beryl.vercel.app/api/top-langs/?username=glennhs&layout=compact)<br />
-![My Stats](https://github-readme-stats-xi-beryl.vercel.app/api?username=glennhs&hide_rank=true&show_icons=true&theme=radical&hide=commits)<br />
+<img src="https://github-readme-stats-xi-beryl.vercel.app/api/top-langs/?username=glennhs&layout=compact" alt="My most used languages"><br />
+<img src="https://github-readme-stats-xi-beryl.vercel.app/api?username=glennhs&hide_rank=true&show_icons=true&theme=radical&hide=commits" alt="My GitHub stats"><br />
 *The above doesn't include private repos of which there's a lot owing to my government work I did so apologies if the stats look a little scuffed!*
 
 ### 💜 Favourite Repositories
