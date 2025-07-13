@@ -1,4 +1,4 @@
-[![My profile banner. It shows a picture of me standing next to logos depicting languages and frameworks I'm competent in](./images/GithubBanner.png "Hey look! It's me!")](https://glennhs.co.uk)
+[![My profile banner. It shows a picture of me standing next to logos depicting languages and frameworks I'm competent in](./images/GitHubHexBanner-NEW.png "Hey look! It's me!")](https://glennhs.co.uk)
 
 ## Open to work! Shoot me a message on [LinkedIn!](https://linkedin.com/in/glennhs) See my CV [here!](https://glennhs.co.uk/cv)
 
