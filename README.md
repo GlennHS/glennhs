@@ -20,12 +20,6 @@ I'm Glenn! I'm a **South UK-based front-end web developer** who makes **[website
   <a href="https://github.com/glennhs"><img src="https://github-readme-stats-xi-beryl.vercel.app/api?username=glennhs&theme=synthwave"/></a>
 </p> -->
 
-<!-- TODO: Do something fancier with these cards -->
-### 👀 At A Glance
-<img src="https://github-readme-stats-xi-beryl.vercel.app/api/top-langs/?username=glennhs&layout=compact" alt="My most used languages"><br />
-<img src="https://github-readme-stats-xi-beryl.vercel.app/api?username=glennhs&hide_rank=true&show_icons=true&theme=radical&hide=commits" alt="My GitHub stats"><br />
-*The above doesn't include private repos of which there's a lot owing to my government work I did so apologies if the stats look a little scuffed!*
-
 ### 💜 Favourite Repositories
 <a href="https://github.com/glennhs/GlennHS-Site"><img src="https://github-readme-stats-xi-beryl.vercel.app/api/pin?repo=GlennHS-Site&username=glennhs&theme=tokyonight" /></a><br />
 <a href="https://github.com/glennhs/aetherslay"><img src="https://github-readme-stats-xi-beryl.vercel.app/api/pin?repo=aetherslay&username=glennhs&theme=tokyonight" /></a><br />
@@ -45,7 +39,7 @@ I'm Glenn! I'm a **South UK-based front-end web developer** who makes **[website
 
 **Styling:** TailwindCSS, SCSS
 
-**Tooling:** ESLint, React Testing Library
+**Tooling:** ESLint, React Testing Library, Docker, Terraform, Git, Vercel
 
 **Other:** Raspberry Pi, Python, C#, Godot, Web Performance/Lighthouse, Accessibility (WCAG)
 
