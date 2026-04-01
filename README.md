@@ -1,5 +1,7 @@
 [![My profile banner. It shows a picture of me standing next to logos depicting languages and frameworks I'm competent in](./images/GitHubHexBanner-NEW-me.png "Hey look! It's me!")](https://glennhs.co.uk)
 
+## Currently open to work! Please find my CV [here!](https://glennhs.co.uk/cv)
+
 ### `Hello World!`, welcome to where I call home!
 
 Hey there 👋,
