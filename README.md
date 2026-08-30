@@ -18,10 +18,10 @@ I'm Glenn! I'm a **South UK-based front-end web developer** who makes **[website
   <a href="https://github.com/glennhs"><img src="https://github-readme-stats-xi-beryl.vercel.app/api?username=glennhs&theme=synthwave"/></a>
 </p> -->
 
-### 💜 Favourite Repositories
+<!-- ### 💜 Favourite Repositories
 <a href="https://github.com/glennhs/GlennHS-Site"><img src="https://github-readme-stats-xi-beryl.vercel.app/api/pin?repo=GlennHS-Site&username=glennhs&theme=tokyonight" /></a><br />
 <a href="https://github.com/glennhs/aetherslay"><img src="https://github-readme-stats-xi-beryl.vercel.app/api/pin?repo=aetherslay&username=glennhs&theme=tokyonight" /></a><br />
-<a href="https://github.com/glennhs/FIVE"><img src="https://github-readme-stats-xi-beryl.vercel.app/api/pin?repo=FIVE&username=glennhs&theme=tokyonight" /></a>
+<a href="https://github.com/glennhs/FIVE"><img src="https://github-readme-stats-xi-beryl.vercel.app/api/pin?repo=FIVE&username=glennhs&theme=tokyonight" /></a> -->
 
 ### 🔭 Current Focus
 - Building a voice-controlled smart home system using Raspberry Pi + Python
